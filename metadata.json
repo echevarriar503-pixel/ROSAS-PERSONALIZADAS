@@ -1,0 +1,7 @@
+{
+  "name": "Rosa Personalizada Pro",
+  "description": "Crea diseños de rosas personalizados con nombres integrados en el tallo, manteniendo un estilo de corte láser elegante y minimalista.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
